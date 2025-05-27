@@ -41,17 +41,17 @@ threat-intel-visualizer/
 git clone https://github.com/frogggr/threat-intel-visualizer.git
 cd threat-intel-visualiser
 
-2. Create virtual environment
+2. **Create virtual environment:**
 python3 -m venv venv
 source venv/bin/activate
 
-3. Install dependencies
+3. **Install dependencies:**
 pip install -r requirements.txt
 
-4. Run the App
+4. **Run the App:**
 python3 app.py
 
-5. Open in your browser
+5. **Open in your browser:**
 http://127.0.0.1:5000/
 
 

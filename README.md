@@ -16,6 +16,7 @@ Manual “Refresh” button (no auto-refresh)
 IP Lookup tool to view geolocation of any public IP
 
 #Project Structure
+
 threat-intel-visualizer/
 ├── app.py
 ├── core/
@@ -38,19 +39,21 @@ threat-intel-visualizer/
 #INSRUCTIONS
 1. **Clone the repo:**
 git clone https://github.com/frogggr/threat-intel-visualizer.git
+
 cd threat-intel-visualiser
 
-2. Create virtual environment
+3. Create virtual environment
 python3 -m venv venv
+
 source venv/bin/activate
 
-3. Install dependencies
+4. Install dependencies
 pip install -r requirements.txt
 
-4. Run the App
+5. Run the App
 python3 app.py
 
-5. Open in your browser
+6. Open in your browser
 http://127.0.0.1:5000/
 
 

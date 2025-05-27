@@ -20,21 +20,22 @@ IP Lookup tool to view geolocation of any public IP
 threat-intel-visualizer/
 ├── app.py
 ├── core/
-│ ├── geolocation.py
-│ └── map_plot.py
+│   ├── geolocation.py
+│   └── map_plot.py
 ├── feeds/
-│ ├── alienvault.py
-│ ├── abuseipdb.py
-│ ├── cybercrime.py
-│ ├── emerging_threats.py
-│ └── spamhaus.py
+│   ├── alienvault.py
+│   ├── abuseipdb.py
+│   ├── cybercrime.py
+│   ├── emerging_threats.py
+│   └── spamhaus.py
 ├── static/
-│ └── threat_map.html
+│   └── threat_map.html
 ├── templates/
-│ ├── index.html
-│ └── lookup.html
+│   ├── index.html
+│   └── lookup.html
 ├── requirements.txt
-└── README.md
+├── README.md
+└── LICENSE
 
 #INSRUCTIONS
 1. **Clone the repo:**

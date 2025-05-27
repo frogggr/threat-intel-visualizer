@@ -35,7 +35,6 @@ threat-intel-visualizer/
 │   └── lookup.html
 ├── requirements.txt
 ├── README.md
-└── LICENSE
 
 #INSRUCTIONS
 1. **Clone the repo:**
